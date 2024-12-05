@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    /* Define a fonte usada no site como "Arial" ou, se não estiver disponível, outra fonte sem
+    serifa (sem pontinhas nas letras). */
+    display: flex;
+    /* Usa o modelo flexível (flexbox) para organizar o conteúdo dentro da página. Facilita o
+    alinhamento e distribuição dos itens. */
+    justify-content: center;
+    /* Centraliza horizontalmente todo o conteúdo da página. */
+    align-items: center;
+    /* Centraliza verticalmente o conteúdo da página. */
+    height: 100vh;
+    /* Define que o conteúdo ocupa 100% da altura visível da página (100% da altura da "janela"
+    do navegador). */
+    margin: 0;
+    /* Remove qualquer espaço (margem) padrão ao redor do conteúdo. Isso garante que o
+    conteúdo comece no topo da página. */
+    background-color: #cc1212;
+    /* Define a cor de fundo da página como um azul claro (hexadecimal #f0f8ff). */
+    }
+    .container {
+    text-align: center;
+    /* Alinha todo o conteúdo dentro do contêiner (div) ao centro, horizontalmente. */
+    }
+    h1 {
+    font-size: 3em;
+    /* Aumenta o tamanho do texto do título (h1) para 3 vezes o tamanho padrão. */
+    color: #c40f1e; }
+    /* Define a cor do texto do título como um tom de cinza escuro (hexadecimal #2
